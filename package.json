@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/carolgreene/npm-lab-v-000#readme",
   "dependencies": {
-    "learn-browser": "^0.1.24",
-    "moment": "^2.24.0"
+    "learn-browser": "^0.1.24"
   }
 }
